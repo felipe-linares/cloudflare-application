@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "felipelinares",
+  "version": "1.0.0",
+  "description": "My Project for the 2020 Cloudflare Full-Stack Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Felipe Linares <flinaresrm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
